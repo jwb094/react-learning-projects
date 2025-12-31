@@ -75,3 +75,44 @@ button:focus-visible {
 i {
   font-size: 100px;
 }
+
+.c-profile {
+  font-family: sans-serif;
+  text-align: center;
+  width: 24rem;
+  max-width: 400px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.c-profile-content {
+  padding-inline: 4rem;
+}
+
+.c-profile__image {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 20px auto;
+  display: block;
+}
+
+.c-profile__name {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.c-profile__content {
+  margin-bottom: 20px;
+}
+
+.c-profile__details {
+  margin-bottom: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-size: 0.9em;
+}
+
+.c-profile-bio {}
