@@ -1,0 +1,103 @@
+/*
+Business Card
+*/
+
+.c-card {
+    position: relative;
+    height: auto;
+    width: 300px;
+    background-color: #ecf0f1;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.c-card-header {
+    /* position: absolute; */
+    height: 220px;
+    /* // left: 0;
+  // right: 0;
+  // top: 0; */
+    padding-top: 2rem;
+    background-image: linear-gradient(to right, #1dd1a1, #1abc9c);
+}
+
+.c-card-header h3 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    top: 150px;
+    left: 55px;
+    margin-top: 0.5rem;
+}
+
+.c-card-header p {
+    font-family: sans-serif;
+    color: rgb(236, 233, 233);
+    top: 180px;
+    left: 100px;
+}
+
+.c-card-image {
+    /* position: absolute; */
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    left: 90px;
+    top: 22px
+}
+
+.c-card-body {
+
+    /* position: absolute; */
+    /* height: 200px;
+   left: 5px;
+   right: 5px;
+   top: 50%; */
+    background-color: lightgray;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.c-card-body ul {
+    /* //   position:absolute;
+  // left:0;
+  // right:0;
+  // top:0;
+  // bottom:0; */
+    padding: 20px;
+}
+
+.c-card-body ul li {
+    /* // position:absolute; */
+    list-style: none;
+    display: block;
+    height: 40px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    background-color: white;
+    transition: all .3s ease-in-out;
+}
+
+.c-card-footer {}
+
+.c-card-footer ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0;
+    margin-top: 12px;
+
+}
+
+.c-card-footer ul li {
+    list-style: none;
+    padding-inline-start: 16px;
+    padding-block-start: 5px;
+}
