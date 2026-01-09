@@ -1,6 +1,6 @@
 function BlogContent() {
 
-    return <article class="" data-block="our_stories_content" data-template="view">
+    return <section class="" data-block="our_stories_content" data-template="view">
         <div class="container">
             <div class="col-xs-12 col-md-8 text-start">
                 <h2>Heading lorum ipsum dolor Content Section Header</h2>
@@ -45,7 +45,7 @@ function BlogContent() {
 
         </div>
 
-    </article>
+    </section>
 
 }
 

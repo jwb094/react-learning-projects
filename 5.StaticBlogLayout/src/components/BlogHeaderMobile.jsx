@@ -1,7 +1,7 @@
 
 function BlogHeaderMobile() {
 
-    return <section className="mt-16 | md.hidden d-sm-block d-md-none d-lg-block py-24 " data-block="our_stories_header" data-template="view">
+    return <section className="mt-16 | d-sm-block d-md-none d-lg-none d-xl-none py-24 " data-block="our_stories_header" data-template="view">
         <div className="container">
             <div className="row | d-flex ">
                 <div className="col-xs-12 col-sm-12 col-md-10 col-lg-10 | my-auto text-start | mb-2">
