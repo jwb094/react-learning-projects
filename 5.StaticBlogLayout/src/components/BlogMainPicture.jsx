@@ -8,7 +8,7 @@ function BlogMainPicture() {
                 <div className="col-xs-12 col-sm-12 col-md-10 col-lg-10 ">
                     <figure className="">
                         <img className="img-fluid" src="https://loremflickr.com/736/479" alt="" />
-                        <figcaption>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, id!</figcaption>
+                        <figcaption className="mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, id!</figcaption>
                     </figure>
 
                 </div>
