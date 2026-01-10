@@ -27,6 +27,9 @@ Project List
 
 ##6. Product Card
 ### Main Topic(s) : 
+* Passing data via props
+    [YT Video Title:Bootstrap 5 Product Card]
+    (https://www.youtube.com/watch?v=4jXWB-E_MqI)
 
 ## 7. Team Members List
 ### Main Topic(s) : 
