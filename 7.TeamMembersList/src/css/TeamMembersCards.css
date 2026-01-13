@@ -1,0 +1,62 @@
+.teamMemberCard {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.card-bloc-bgimg img {
+
+    height: 200px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+
+}
+
+.card-bloc-profileimg img {
+    position: relative;
+    display: block;
+    margin-block-start: -80px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    z-index: 1;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+
+
+}
+
+.teamMemberCard:hover .card-bloc-profileimg img {
+    border-color: darkcyan;
+    transition: .7s;
+}
+
+
+.card-bloc-content {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.card-bloc-content h2 {
+
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+
+.card-bloc-content p {
+    font-size: 16px;
+    padding: 0 35px;
+}
+
+
+
+.card-bloc-socials ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
