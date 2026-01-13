@@ -33,6 +33,8 @@ Project List
 
 ## 7. Team Members List
 ### Main Topic(s) : 
+* Reusing components
+* [Profile Card Design using Bootstrap | Bootstrap Cards](https://www.youtube.com/watch?v=oH6xPFytf2E)
 
 ## 8. Pricing Table
 ### Main Topic(s) :
