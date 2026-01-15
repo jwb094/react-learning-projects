@@ -38,7 +38,8 @@ Project List
 
 ## 8. Pricing Table
 ### Main Topic(s) :
-
+* Nested components
+* [Bootstrap 4 Pricing Table Design | Responsive Bootstrap 4 Pricing Table](https://www.youtube.com/watch?v=_NOLyIjMIBg)
 ## 9. Testimonial Section
 ### Main Topic(s) : 
 
