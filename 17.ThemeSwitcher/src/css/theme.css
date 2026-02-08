@@ -1,0 +1,22 @@
+.darkmode {
+    background-color: #070b1d;
+    color: #ffffff;
+    /* --secondary-color: #a4a5b8; */
+
+    h1 {
+        font-size: 6rem;
+    }
+}
+
+.lightmode {
+    background-color: #f8f8f8;
+    color: #000000;
+
+    h1 {
+        font-size: 4rem;
+    }
+
+    p {
+        color: #68696a;
+    }
+}
