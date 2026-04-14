@@ -1,7 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+import { FaEye, FaEyeSlash } from "react-icons/fa";
 import './App.css'
 
 function App() {
@@ -16,9 +14,9 @@ function App() {
           <div>
             <input type={visibility ? "text" : "password"} />
             <button
-              className="counter"
+              className="toggle-visibility"
               onClick={() => setVisibility((visibility) => visibility ? false : true)}>
-              {visibility === true ? 'Invisible' : 'Visible'}
+              {visibility === true ? <FaEye /> : <FaEyeSlash />}
             </button>
           </div>
 
