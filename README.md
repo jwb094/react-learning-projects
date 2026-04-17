@@ -87,12 +87,137 @@ State & Events
 
 🟠 Forms & Controlled Inputs
 
+##  21. Simple Input Demo
+### Main Topic(s) Controlled components
 
+
+##  22.Login Form (UI Only)
+### Main Topic(s): Form handling
+
+
+##  23. Signup Form
+### Main Topic(s): Multiple inputs
+
+##  24.Contact Form
+### Main Topic(s): Handling submissions
+
+##  25.Character Counter
+### Main Topic(s)Input events
+
+
+##  26.Password Show / Hide
+### Main Topic(s):Toggling input types
+
+##  27.Checkbox List
+### Main Topic(s):Boolean form state
+[YT Title - How To Create Checkbox List in React JS](https://www.youtube.com/watch?v=3cgeYXhoI88&pp=ygUVcmVhY3RqcyBjaGVja2JveCBsaXN0)
+
+##  28.Radio Button Selector
+### Main Topic(s)Grouped inputs
+
+##  29.Search Input
+### Main Topic(s): Controlled filtering
+[YT Title -React Coding Interview Question: Search Filter Functionality🔥 #react](https://www.youtube.com/watch?v=wMJzf3Vl2Vw)
+
+##  30.Multi-Step Form
+### Main Topic(s):Managing complex state
+
+[YT Title -ReactJS Multi-Step Form Tutorial - React Hooks Tutorial](https://www.youtube.com/watch?v=wOxP4k9f5rk)
 
 🔵 Lists, Keys & Data Rendering
+
+##  31.To-Do List
+### Main Topic(s):Lists, keys, CRUD(Create,Read Update,Delete)
+
+##  32.Grocery List
+### Main Topic(s):
+
+
+##  33.Notes App
+### Main Topic(s)
+
+##  34.Contact List
+### Main Topic(s)
+
+##  35.Expense Tracker
+### Main Topic(s):
+
+
+##  36.Movie List
+### Main Topic(s)
+
+##  37.Filterable Product List
+### Main Topic(s)
+
+##  38.
+### Main Topic(s):
+
+
+##  39.
+### Main Topic(s)
+
+##  40.
+### Main Topic(s)
+
+
 
 
 🟣 Effects & APIs (useEffect)
 
+##  41.
+### Main Topic(s):
+
+
+##  42.
+### Main Topic(s)
+
+
+##  43.
+### Main Topic(s):
+
+
+##  44.
+### Main Topic(s)
+
+##  45.
+### Main Topic(s):
+
+
+##  46.
+### Main Topic(s)
+
+##  47.
+### Main Topic(s):
+
+
+##  48.
+### Main Topic(s)
+
+##  49.
+### Main Topic(s):
+
+
+##  50.
+### Main Topic(s)
 
 🔴 Beginner Routing (Optional)
+
+
+##  51.
+### Main Topic(s):
+
+
+##  52.
+### Main Topic(s)
+
+##  53.
+### Main Topic(s):
+
+
+##  54.
+### Main Topic(s)
+
+
+##  55.
+### Main Topic(s):
+
