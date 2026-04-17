@@ -39,7 +39,8 @@ function App() {
           <h1>27.Checkbox List</h1>
         </div>
         {selectedList.length === 0 ? "NO items have been selected" :
-          <div className="">
+          <div className="d-flex">
+            Selected Programme Languages:
             <ul className="d-flex flex-row column-gap-3">
 
               {selectedList.map((item) => (
@@ -56,6 +57,7 @@ function App() {
                 type="checkbox"
                 id={item.id}
                 value={item.name}
+                checked={selectedList.includes(item.name)}
                 aria-label="Checkbox for following text input"
                 onChange={handleSelect} />
               <span class="ms-2 badge text-bg-secondary">{item.name}</span>
