@@ -1,0 +1,38 @@
+.card {
+
+    max-width: 30rem;
+    background-color: #898989;
+    color: #fff;
+
+    & img {
+        min-width: 25%;
+        margin: auto;
+        padding: 0.5rem;
+        border-radius: 0.7em;
+    }
+
+    .text-section {
+
+
+        max-width: 60%;
+    }
+
+    .cta-section {
+        max-width: 40%;
+        align-items: flex-end;
+
+        .btn {
+            padding: 0.3em 0.5em;
+            /* background-color: #898989;
+            border-color: #898989; */
+        }
+    }
+
+
+}
+
+@media (max-width: 475px) {
+    .card {
+        font-size: 0.9em;
+    }
+}
