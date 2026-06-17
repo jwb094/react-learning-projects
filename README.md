@@ -3,7 +3,8 @@
 This Repo hold various projects that will help a begineer/newbie/novice to understand ReactJS concepts,features,terminology
 
 Project List
-🟢 Core React Basics (JSX, Components, Props)
+
+# 🟢 Core React Basics (JSX, Components, Props)
 ## 1.Hello React App
 ### Main Topic(s)
 * JSX , Component Props
@@ -85,7 +86,7 @@ State & Events
 ### Main Topic(s) : Conditional components
 
 
-🟠 Forms & Controlled Inputs
+# 🟠 Forms & Controlled Inputs
 
 ##  21. Simple Input Demo
 ### Main Topic(s) Controlled components
@@ -124,100 +125,131 @@ State & Events
 
 [YT Title -ReactJS Multi-Step Form Tutorial - React Hooks Tutorial](https://www.youtube.com/watch?v=wOxP4k9f5rk)
 
-🔵 Lists, Keys & Data Rendering
+# 🔵 Lists, Keys & Data Rendering
 
 ##  31.To-Do List
 ### Main Topic(s):Lists, keys, CRUD(Create,Read Update,Delete)
 
 ##  32.Grocery List
-### Main Topic(s):
+### Main Topic(s):Mapping arrays
 
 
 ##  33.Notes App
-### Main Topic(s)
+### Main Topic(s):Managing collections
 
 ##  34.Contact List
-### Main Topic(s)
+### Main Topic(s):Passing data to components
 
 ##  35.Expense Tracker
-### Main Topic(s):
+### Main Topic(s):Calculated state
 
 
 ##  36.Movie List
-### Main Topic(s)
+### Main Topic(s): Rendering external data
+
+
+Google Search Term - free. movies/film public api
+API used - https://imdbapi.dev/ 
+https://api.imdbapi.dev/titles
 
 ##  37.Filterable Product List
+### Main Topic(s):Filtering arrays
+
+##  38.Sortable List
+### Main Topic(s):Sorting state data
+
+
+##  39.Favorites App
+### Main Topic(s):State per item
+
+[Bootstrap 5 Product Card | Bootstrap horizontal card - YTC:Coding Yaar](https://www.youtube.com/watch?v=GaOKdDlR0lo&list=PLEGWy2sQ80YtFWWVixRdb6NXnFpdugHf-&index=1)
+##  40.Pagination Demo
+### Main Topic(s)Chunking data - client side
+
+Node package 
+lodash - `npm i --save lodash`
+[[YTC Special Coder]Pagination: Custom React Pagination](https://www.youtube.com/playlist?list=PLtg1JClTksfCw-p-iPuFUezhrh-4RTO1T)
+
+
+##  40.1.Pagination Demo API
+### Main Topic(s) - Chunking data - server side API call
+[Fake data](https://jsonplaceholder.typicode.com/posts)
+
+# 🟣 Effects & APIs (useEffect)
+
+##  41.Digital Clock
+### Main Topic(s):useEffect, intervals
+
+[Build a Digital Clock With React JS | React JS Projects For Beginners[YTC-Code With Zhully]](https://www.youtube.com/watch?v=PtIFLe8ND7I&t=183s)
+
+##  42.Stopwatch
+### Main Topic(s) Cleanup functions
+[How To Create A Stopwatch In React Js (6 Minutes)[SpitsDev]](https://www.youtube.com/watch?v=-UfZ3N7qPYw)
+
+##  43.Countdown Timer
+### Main Topic(s):Time-based state
+
+##  43.Countdown Timer
+### Main Topic(s):Time-based state
+[React js Timer | Countdown timer with react js [Code With Yousaf]](https://www.youtube.com/watch?v=omlmTBFH-oY)
+
+##  44.Random Quote Generator
+### Main Topic(s):Fetch API
+[Quotable](https://github.com/lukePeavey/quotable?utm_source=chatgpt.com#get-random-quote)
+[DummyJson](https://dummyjson.com/docs/quotes?utm_source=chatgpt.com)
+
+##  45.Joke Generator
+### Main Topic(s):Async data fetching
+[JokeAPI](https://v2.jokeapi.dev/)
+
+##  46.Weather App (Basic)
 ### Main Topic(s)
 
-##  38.
-### Main Topic(s):
+##  47.Random User App
+### Main Topic(s):Loading states
+
+[dummyjson](https://dummyjson.com/docs/users#users-all)
+
+##  48.Search API App
+### Main Topic(s):Effect dependencies
+
+##  49.Error Handling Demo
+### Main Topic(s):Error state
 
 
-##  39.
-### Main Topic(s)
+##  50.Loading Spinner App
+### Main Topic(s)UI feedback
+NPM package - react-load-spinner
+# 🔴 Beginner Routing (Optional)
 
-##  40.
-### Main Topic(s)
-
-
-
-
-🟣 Effects & APIs (useEffect)
-
-##  41.
-### Main Topic(s):
+##  51.Multi-Page Website
+### Main Topic(s):React Router basics
+NPM package 
+        - react-router  
+        - bootstrap 
 
 
-##  42.
-### Main Topic(s)
+##  52.Simple Blog
+### Main Topic(s):Dynamic routes
+NPM package 
+        - react-router  
+        - bootstrap 
+[Bootstrap 5 Hero Template](https://getbootstrap.com/docs/5.0/examples/heroes/)
 
+##  53.Product Pages
+### Main Topic(s):URL parameters
+NPM package 
+        - react-router  
+        - bootstrap 
 
-##  43.
-### Main Topic(s):
+##  54.User Profiles
+### Main Topic(s):Route params
+NPM package 
+        - react-router  
+        - bootstrap 
 
-
-##  44.
-### Main Topic(s)
-
-##  45.
-### Main Topic(s):
-
-
-##  46.
-### Main Topic(s)
-
-##  47.
-### Main Topic(s):
-
-
-##  48.
-### Main Topic(s)
-
-##  49.
-### Main Topic(s):
-
-
-##  50.
-### Main Topic(s)
-
-🔴 Beginner Routing (Optional)
-
-
-##  51.
-### Main Topic(s):
-
-
-##  52.
-### Main Topic(s)
-
-##  53.
-### Main Topic(s):
-
-
-##  54.
-### Main Topic(s)
-
-
-##  55.
-### Main Topic(s):
-
+##  55.404 Page
+### Main Topic(s):Fallback routes
+NPM package 
+        - react-router  
+        - bootstrap 
